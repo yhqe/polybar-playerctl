@@ -9,4 +9,5 @@ place the `playerctl.sh` file wherever your heart pleases, then in your polybar 
 type = custom/script
 exec = $HOME/your_playerctl_sh_location.sh
 interval = 0.5
+label-foreground = #ffffff
 ```
